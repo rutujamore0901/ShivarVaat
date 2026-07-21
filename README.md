@@ -1,2 +1,2 @@
 # ShivarVaat
-This is a  frontend project name is shivaarvaat
+This is a  frontend project name is shivaarvaat.
